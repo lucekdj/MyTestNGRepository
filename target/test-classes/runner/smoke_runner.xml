@@ -9,6 +9,8 @@
         </run>
     </groups>
 
+    <parameter name="browser" value="chrome"></parameter>
+
     <test name="Login Test" >
         <classes>
             <class name="com.automation.test.LoginTest" />

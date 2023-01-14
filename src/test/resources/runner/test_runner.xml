@@ -2,11 +2,11 @@
 
 <suite name="Smoke Automation Test" verbose="1">
 
-    <groups>
-        <run>
-            <include name="Chirag"></include>
-        </run>
-    </groups>
+<!--    <groups>-->
+<!--        <run>-->
+<!--            <include name="Chirag"></include>-->
+<!--        </run>-->
+<!--    </groups>-->
 
     <test name="This is my Test">
         <packages>
